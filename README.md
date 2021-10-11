@@ -1,7 +1,5 @@
 ### Hi there 👋, my name is Pietro
 #### Statistics undergraduate and Data Science intern
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
 Skills: PYTHON / R / SQL / STATISTICS / POWER BI / SHINY / GIT / WEBSCRAPING / AGILE
 
 - 🔭 I’m currently working on a few Python/ML projects and my undergraduate thesis 
