@@ -2,8 +2,8 @@
 #### Statistics undergraduate and Data Science intern
 Skills: PYTHON / R / SQL / STATISTICS / POWER BI / SHINY / GIT / WEBSCRAPING / AGILE
 
-- 🔭 I’m currently working on a few Python/ML projects and my undergraduate thesis 
-- 🌱 I’m currently learning AWS and SKLearn 
+- 🔭 I’m currently working on a few Python/ML projects and my undergraduate thesis about linear regression
+- 🌱 I’m currently learning SKLearn and AWS
 - 👯 I’m looking to collaborate on data science projects and research 
 - 📫 How to reach me: pietro.e@me.com 
 - 😄 Pronouns: he/him 
