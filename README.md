@@ -1,3 +1,5 @@
+###[portfolio in progress]
+
 ### Hi there 👋, my name is Pietro
 #### Statistics undergraduate and Data Science intern
 Skills: PYTHON / R / SQL / STATISTICS / POWER BI / SHINY / GIT / WEBSCRAPING / AGILE
