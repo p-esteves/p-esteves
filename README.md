@@ -3,11 +3,9 @@
 Me chamo Pietro e atuo como Cientista de Dados em Fortaleza, CE - Brasil. Estou cursando Estatística (Bacharelado) na Universidade Federal do Ceará - UFC. Minha pesquisa foca em modelos de regressão linear e inteligência artificial. Atualmente tenho estudado ferramentas de computação na nuvem e bancos de dados não-relacionais. Pretendo usar este GitHub como portfólio para exibir meus projetos e assim facilitar o encontro de novas oportunidades na área de dados.
 
 Entre em contato via: 
+
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jodavidferreira/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](pietro.e@me.com)
-
-
-https://github-readme-stats.vercel.app/api/top-langs/?username={p-esteves}
 
 
 ## :robot: Projetos de Aprendizado de Máquina e Ciência de Dados
@@ -22,8 +20,6 @@ https://github-readme-stats.vercel.app/api/top-langs/?username={p-esteves}
 - [Observatório Analítico de Acidentes de Trabalho](https://observatorioacidentes.sfiec.org.br/)
 - Painel de Indicadores de projetos imobiliários (parceria Sinduscon em 2020)
 - Painéis internos de gestão de equipe e finanças
-
-
 
 ## :clipboard: Projetos de Pesquisa e Escrita Técnica
 - [Pesquisas e Sondagens Empresariais do Observatório da Indústria - FIEC](https://www.observatorio.ind.br/inteligencia-competitiva)
@@ -43,7 +39,6 @@ https://github-readme-stats.vercel.app/api/top-langs/?username={p-esteves}
 ## :abacus: Projetos Acadêmicos
 - [Projetos desenvolvidos como atividades ou para fixar conteúdo estudado durante a graduação](https://github.com/p-esteves/projetos-ufc)
 
-
 ## :brain: Skills
 
 R,
@@ -55,8 +50,6 @@ aprendizado de maquina (tensorflow, sklearn,pytorch)
 bigdata (hadoo, spark)
 visualizacao dados (seaborn, matplotlib, geoda, plotly, streamlit, shiny)
 webscrapingg (bs4, selenium, 
-
-
 Ingles fluente 
 espanhol intermediario
  aws 
@@ -70,7 +63,6 @@ espanhol intermediario
 git 
 latex
 pesquisa e escrita tecnica
-
 
 
 ## :computer: Atuação profissional
