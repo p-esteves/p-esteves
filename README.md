@@ -1,4 +1,5 @@
 
+
 # Olá, mundo!
 Me chamo Pietro e atuo como Cientista de Dados em Fortaleza, CE - Brasil. Estou cursando Estatística (Bacharelado) na Universidade Federal do Ceará - UFC. Minha pesquisa foca em modelos de regressão linear e inteligência artificial. Atualmente tenho estudado ferramentas de computação na nuvem e bancos de dados não-relacionais. Pretendo usar este GitHub como portfólio para exibir meus projetos e assim facilitar o encontro de novas oportunidades na área de dados.
 
@@ -40,32 +41,60 @@ Entre em contato via:
 - [Projetos desenvolvidos como atividades ou para fixar conteúdo estudado durante a graduação](https://github.com/p-esteves/projetos-ufc)
 
 ## :brain: Skills
+### Linguagens de programação
+- Python (Numpy, Pandas, SciPy)
+- R
+- SQL
+- C++
+- C
+- SAS
+- 
+### Data Science
+- Machine Learning
+- scikit-learn
+- TensorFlow
+- PyTorch
 
-R,
- Python (pandas, numppy,
- C++, C, SAS
-estatistica
-agile (srum, kanban, MoSCoW)
-aprendizado de maquina (tensorflow, sklearn,pytorch)
-bigdata (hadoo, spark)
-visualizacao dados (seaborn, matplotlib, geoda, plotly, streamlit, shiny)
-webscrapingg (bs4, selenium, 
-Ingles fluente 
-espanhol intermediario
- aws 
- azure 
- databricks
-  sql
-   powerbi 
-   google data studio
-   office 
-   excel
-git 
-latex
-pesquisa e escrita tecnica
+### Visualização e Análise de Dados
+- Microsoft Power BI
+- Google Data Studio
+- Streamlit
+- Plotly
+- GeoDa
+- ArcGIS
+- Shiny
+- Matplotlib
 
+### Cloud e Big Data
+- AWS
+- Hadoop
+- Spark
+- Databricks
+- Azure
 
-## :computer: Atuação profissional
+### Extração de Dados
+- BeautifulSoup
+- Selenium
+- Rvest
+
+### Idiomas
+- Inglês (fluente)
+- Espanhol (intermediário)
+- Francês (básico)
+
+### Soft Skills
+- Curiosidade
+- Adaptabilidade
+- Comunicação
+
+### Outros
+- Git
+- Metodologias Ágeis (Scrum, Kanban, MoSCoW)
+- Microsoft Office 
+- _LaTeX_
+- Microsoft Excel
+
+## :computer: Atuação Profissional
 
 - Cientista de Dados - Observatório da Indústria FIEC (abril de 2020 - Presente)
 
