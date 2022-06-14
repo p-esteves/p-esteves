@@ -1,15 +1,86 @@
-###[portfolio in progress]
 
-### Hi there 👋, my name is Pietro
-#### Statistics undergraduate and Data Science intern
-Skills: PYTHON / R / SQL / STATISTICS / POWER BI / SHINY / GIT / WEBSCRAPING / AGILE
+# Olá, mundo!
+Me chamo Pietro e atuo como Cientista de Dados em Fortaleza, CE - Brasil. Estou cursando Estatística (Bacharelado) na Universidade Federal do Ceará - UFC. Minha pesquisa foca em modelos de regressão linear e inteligência artificial. Atualmente tenho estudado ferramentas de computação na nuvem e bancos de dados não-relacionais. Pretendo usar este GitHub como portfólio para exibir meus projetos e assim facilitar o encontro de novas oportunidades na área de dados.
 
-- 🔭 I’m currently working on a few Python/ML projects and my undergraduate thesis about linear regression
-- 🌱 I’m currently learning SKLearn and AWS
-- 👯 I’m looking to collaborate on data science projects and research 
-- 📫 How to reach me: pietro.e@me.com 
-- 😄 Pronouns: he/him 
+Entre em contato via: 
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jodavidferreira/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](pietro.e@me.com)
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/p-esteves)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pietro-esteves-240564134/)  
+https://github-readme-stats.vercel.app/api/top-langs/?username={p-esteves}
 
+
+## :robot: Projetos de Aprendizado de Máquina e Ciência de Dados
+- Notebook introdutório para modelos de machine learning
+- Construção, desenvolvimento e acompanhamento de métricas de modelos de classificação para marketing e sales forecasting.
+	
+## :bar_chart: Projetos de Visualização e Análise de Dados
+- [Painéis de Inteligência de Dados](https://www.observatorio.ind.br/inteligencia-de-dados)
+- [Painel Coronavírus](https://www1.sfiec.org.br/sites/numa/?st=noticia&id=133835)
+- [Painel de Transparência da COVID - Secretaria de Saúde do Ceará](https://indicadores.integrasus.saude.ce.gov.br/#/home)
+- [Índice FIEC de Inovação os Estados (edição de 2020)](https://www.observatorio.ind.br/inteligencia-de-dados)
+- [Observatório Analítico de Acidentes de Trabalho](https://observatorioacidentes.sfiec.org.br/)
+- Painel de Indicadores de projetos imobiliários (parceria Sinduscon em 2020)
+- Painéis internos de gestão de equipe e finanças
+
+
+
+## :clipboard: Projetos de Pesquisa e Escrita Técnica
+- [Pesquisas e Sondagens Empresariais do Observatório da Indústria - FIEC](https://www.observatorio.ind.br/inteligencia-competitiva)
+	- Sondagem da Construção: edições de Agosto e Setembro de 2019
+	- Índice de Confiança do Empresário Industrial - ICEI: edições de Março a Setembro, Dezembro de 2019 e Janeiro de 2020.
+	- Indicadores Industriais: edição de Novembro de 2019
+- [Projeto para os Encontros Universitários da UFC sobre Experiência de Estágio de Estatística](http://sysprppg.ufc.br/eu/2020/) 
+	- "Estatística aplicada através dos estudos do Observatório da Indústria"
+- Monografia: Modelos de Regressão Linear para Dados Intervalares
+
+## :pick: Projetos de Extração e Engenharia de Dados
+- [ETLs em Python](https://github.com/p-esteves/etl-python)
+	- Bases de dados usadas no [projeto de redução do Custo Brasil em parceria com o Ministério da Economia](https://www1.sfiec.org.br/fiec-noticias/search/135943/observatorio-da-industria-inicia-trabalho-relativo-ao-acordo-de-cooperacao-com-o-ministerio-da-economia-para-reducao-do-custo-brasil#:~:text=De%20acordo%20com%20c%C3%A1lculos%20do,ambiente%20de%20neg%C3%B3cios%20do%20Pa%C3%ADs.)
+- [ETLs em R](https://github.com/p-esteves/etl-r)
+	- Bases de dados usadas em painéis do Observatório da Indústria e outros projetos internos 
+
+## :abacus: Projetos Acadêmicos
+- [Projetos desenvolvidos como atividades ou para fixar conteúdo estudado durante a graduação](https://github.com/p-esteves/projetos-ufc)
+
+
+## :brain: Skills
+
+R,
+ Python (pandas, numppy,
+ C++, C, SAS
+estatistica
+agile (srum, kanban, MoSCoW)
+aprendizado de maquina (tensorflow, sklearn,pytorch)
+bigdata (hadoo, spark)
+visualizacao dados (seaborn, matplotlib, geoda, plotly, streamlit, shiny)
+webscrapingg (bs4, selenium, 
+
+
+Ingles fluente 
+espanhol intermediario
+ aws 
+ azure 
+ databricks
+  sql
+   powerbi 
+   google data studio
+   office 
+   excel
+git 
+latex
+pesquisa e escrita tecnica
+
+
+
+## :computer: Atuação profissional
+
+- Cientista de Dados - Observatório da Indústria FIEC (abril de 2020 - Presente)
+
+- Estágio de Pesquisa - Observatório da Indústria FIEC (fev de 2019 - abril de 2020)
+
+## :mortar_board: Formação Acadêmica
+
+- Bacharelado em Estatística - Universidade Federal do Ceará (fev de 2017 - conclusão em dez de 2022)
+
+- Bacharelado em Matemática - Universidade Federal do Ceará (fev de 2014 - jun de 2016)
