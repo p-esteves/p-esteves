@@ -48,7 +48,7 @@ Entre em contato via:
 - C++
 - C
 - SAS
-- 
+
 ### Data Science
 - Machine Learning
 - scikit-learn
