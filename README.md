@@ -6,7 +6,7 @@ Me chamo Pietro e atuo como Cientista de Dados em Fortaleza, CE - Brasil. Estou 
 Entre em contato via: 
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietro-esteves-240564134/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](pietro.e@me.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:pietro.e@me.com)
 
 
 ## :robot: Projetos de Aprendizado de Máquina e Ciência de Dados
