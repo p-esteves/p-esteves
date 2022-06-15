@@ -10,8 +10,8 @@ Entre em contato via:
 
 
 ## :robot: Projetos de Aprendizado de Máquina e Ciência de Dados
-- Notebook introdutório para modelos de machine learning
-- Construção, desenvolvimento e acompanhamento de métricas de modelos de classificação para marketing e sales forecasting.
+- [Notebook introdutório para modelos de machine learning](https://github.com/p-esteves/intro-modelos)
+- Construção, desenvolvimento e acompanhamento de métricas de modelos para marketing e sales forecasting do Sistema FIEC.
 	
 ## :bar_chart: Projetos de Visualização e Análise de Dados
 - [Painéis de Inteligência de Dados](https://www.observatorio.ind.br/inteligencia-de-dados)
