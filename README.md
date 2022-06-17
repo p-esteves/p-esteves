@@ -68,7 +68,7 @@ Entre em contato via:
 - Matplotlib
 - Seaborn
 
-### Cloud e Big Data
+### Cloud, Big Data e Bancos de Dados
 - AWS
 - Hadoop
 - Spark
@@ -76,6 +76,8 @@ Entre em contato via:
 - Azure
 - GCP (Google Cloud Platform)
 - Airflow
+- Django
+- MongoDB
 
 ### Extração de Dados
 - BeautifulSoup
