@@ -48,12 +48,14 @@ Entre em contato via:
 - C++
 - C
 - SAS
+- Java
 
 ### Data Science
-- Machine Learning
+- Machine Learning (Regressão, Classificação, Clustering, etc.)
 - scikit-learn
 - TensorFlow
 - PyTorch
+- Keras
 
 ### Visualização e Análise de Dados
 - Microsoft Power BI
@@ -64,6 +66,7 @@ Entre em contato via:
 - ArcGIS
 - Shiny
 - Matplotlib
+- Seaborn
 
 ### Cloud e Big Data
 - AWS
@@ -71,6 +74,8 @@ Entre em contato via:
 - Spark
 - Databricks
 - Azure
+- GCP (Google Cloud Platform)
+- Airflow
 
 ### Extração de Dados
 - BeautifulSoup
@@ -85,14 +90,20 @@ Entre em contato via:
 ### Soft Skills
 - Curiosidade
 - Adaptabilidade
+- Autonomia
 - Comunicação
+- Flexibilidade
+- Cooperação
 
 ### Outros
 - Git
 - Metodologias Ágeis (Scrum, Kanban, MoSCoW)
+- MLOps (MLFlow)
 - Microsoft Office 
 - _LaTeX_
 - Microsoft Excel
+- Docker
+- Linux
 
 ## :computer: Atuação Profissional
 
