@@ -1,7 +1,7 @@
 
 
 # Olá, mundo!
-Me chamo Pietro e atuo como Cientista de Dados em Fortaleza, CE - Brasil. Estou cursando Estatística (Bacharelado) na Universidade Federal do Ceará - UFC. Minha pesquisa foca em modelos de regressão linear e inteligência artificial. Atualmente tenho estudado ferramentas de computação na nuvem e bancos de dados não-relacionais. Pretendo usar este GitHub como portfólio para exibir meus projetos e assim facilitar o encontro de novas oportunidades na área de dados.
+Me chamo Pietro e atuo como Cientista de Dados em Fortaleza, CE - Brasil. Estou cursando Estatística (Bacharelado) na Universidade Federal do Ceará - UFC. Minha pesquisa foca em modelos de regressão linear e inteligência artificial. Atualmente tenho estudado ferramentas de computação na nuvem e bancos de dados não-relacionais. Pretendo usar este GitHub como portfólio para exibir meus projetos e assim facilitar o encontro de novas oportunidades na área de dados e compartilhar conhecimento.
 
 Entre em contato via: 
 
