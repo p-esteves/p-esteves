@@ -27,8 +27,6 @@ Entre em contato via:
 	- Sondagem da Construção: edições de Agosto e Setembro de 2019
 	- Índice de Confiança do Empresário Industrial - ICEI: edições de Março a Setembro, Dezembro de 2019 e Janeiro de 2020
 	- Indicadores Industriais: edição de Novembro de 2019
-- [Projeto para os Encontros Universitários da UFC sobre Experiência de Estágio de Estatística](http://sysprppg.ufc.br/eu/2020/) 
-	- "Estatística aplicada através dos estudos do Observatório da Indústria"
 
 ## :pick: Projetos de Extração e Engenharia de Dados
 - [ETLs em Python](https://github.com/p-esteves/etl-python)
@@ -39,7 +37,8 @@ Entre em contato via:
 ## :abacus: Projetos Acadêmicos
 - [Projetos desenvolvidos como atividades ou para fixar conteúdo estudado durante a graduação](https://github.com/p-esteves/projetos-ufc)
 - Monografia: Modelos de Regressão Linear para Dados Intervalares
-- Pôster no Encontro de Estágios da UFC (Encontros Universitários 2020)
+- [Projeto para os Encontros Universitários da UFC sobre Experiência de Estágio de Estatística](http://sysprppg.ufc.br/eu/2020/) 
+	- "Estatística aplicada através dos estudos do Observatório da Indústria"
 
 ## :brain: Skills
 ### Linguagens de programação
