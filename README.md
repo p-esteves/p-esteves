@@ -109,9 +109,9 @@ Entre em contato via:
 
 ## :computer: Atuação Profissional
 
-- Cientista de Dados Pleno - Pravaler (julho de 2022 - presente)
+- Cientista de Dados Pleno - Pravaler (agosto de 2022 - presente)
 
-- Cientista de Dados Trainee/Junior - Observatório da Indústria FIEC (abril de 2020 - junho de 2022)
+- Cientista de Dados Trainee/Junior - Observatório da Indústria FIEC (abril de 2020 - julho de 2022)
 
 - Estágio de Pesquisa - Observatório da Indústria FIEC (fev de 2019 - abril de 2020)
 
