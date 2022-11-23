@@ -1,7 +1,7 @@
 
 
 # Olá, mundo!
-Me chamo Pietro e atuo como Cientista de Dados em Fortaleza, CE - Brasil. Estou cursando Estatística (Bacharelado) na Universidade Federal do Ceará - UFC. Minha pesquisa foca em modelos de regressão linear e inteligência artificial. Atualmente tenho estudado ferramentas de computação na nuvem e bancos de dados não-relacionais. Pretendo usar este GitHub como portfólio para exibir meus projetos e assim facilitar o compartilhamento de conhecimento.
+Me chamo Pietro e atuo como Cientista de Dados em Fortaleza, CE - Brasil. Estou cursando Estatística (Bacharelado) na Universidade Federal do Ceará - UFC. Minha pesquisa foca em modelos de regressão linear mistos e inteligência artificial. Atualmente tenho estudado ferramentas de computação na nuvem e bancos de dados não-relacionais. Pretendo usar este GitHub como portfólio para exibir meus projetos e assim facilitar o compartilhamento de conhecimento.
 
 Entre em contato via: 
 
@@ -67,6 +67,7 @@ Entre em contato via:
 - Shiny
 - Matplotlib
 - Seaborn
+- Looker
 
 ### Cloud, Big Data e Bancos de Dados
 - AWS
@@ -78,6 +79,7 @@ Entre em contato via:
 - Airflow
 - Django
 - MongoDB
+- Snowflake
 
 ### Extração de Dados
 - BeautifulSoup
@@ -109,7 +111,7 @@ Entre em contato via:
 
 ## :computer: Atuação Profissional
 
-- Cientista de Dados Pleno - Pravaler (agosto de 2022 - presente)
+- Cientista de Dados Pleno - Pravaler (agosto de 2022 - novembro de 2022)
 
 - Cientista de Dados Trainee/Junior - Observatório da Indústria FIEC (abril de 2020 - julho de 2022)
 
