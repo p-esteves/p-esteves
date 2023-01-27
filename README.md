@@ -3,6 +3,8 @@
 # Olá, mundo!
 Me chamo Pietro e atuo como Cientista de Dados em Fortaleza, CE - Brasil. Estou cursando Estatística (Bacharelado) na Universidade Federal do Ceará - UFC. Minha pesquisa foca em modelos de regressão linear mistos e inteligência artificial. Atualmente tenho estudado ferramentas de computação na nuvem e bancos de dados não-relacionais. Pretendo usar este GitHub como portfólio para exibir meus projetos e assim facilitar o compartilhamento de conhecimento.
 
+Possuo background em programação desde os 15 anos e no mercado de trabalho desenvolvi diversos tipos de projetos, nas áreas de Análise, Engenharia e Ciência de Dados. Estes projetos incluem: uso de modelos preditivos de crédito/risco, recomendação e ranqueamento, extrações de dados automatizadas usando bancos de dados, webscraping e nuvem de diversas fontes e formatos de dados, além da criação de diversos relatórios e painéis interativos que ajudam na tomada de decisão da empresa/órgão. Alguns destes projetos foram desenvolvidos de forma autodidata, a fim de aprimorar meus conhecimentos independentemente do cargo atual.
+
 Entre em contato via: 
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietro-esteves-240564134/)
