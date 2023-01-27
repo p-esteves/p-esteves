@@ -121,6 +121,6 @@ Entre em contato via:
 
 ## :mortar_board: Formação Acadêmica
 
-- Bacharelado em Estatística - Universidade Federal do Ceará (fev de 2017 - conclusão em dez de 2022)
+- Bacharelado em Estatística - Universidade Federal do Ceará (fev de 2017 - conclusão em jul de 2023)
 
 - Bacharelado em Matemática - Universidade Federal do Ceará (fev de 2014 - jun de 2016)
