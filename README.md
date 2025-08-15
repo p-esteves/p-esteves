@@ -6,13 +6,6 @@ Atuo como Cientista de Dados em Fortaleza, CE - Brasil. Sou bacharel em Estatís
 
 ---
 
-### 🔗 Conecte-se Comigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/pietro-esteves/](https://www.linkedin.com/in/pietro-esteves-240564134/))
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pietro.e@me.com)
-
----
-
 ### 🚀 Hard Skills | Ferramentas
 
 **Linguagens:**
