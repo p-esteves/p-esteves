@@ -2,7 +2,7 @@
 
 Olá 👋, me chamo Pietro.
 
-Atuo como Cientista de Dados em Fortaleza, CE - Brasil. Sou bacharel em Estatística pela Universidade Federal do Ceará - UFC e possuo aproximadamente 5 anos de experiência em análise, desenvolvimento de dashboards e implementação de modelos preditivos. Tenho sólida habilidade em manipulação de dados com Python, R e SQL, e experiência prática com Power BI, Looker, AWS e GCP. Sou fluente em inglês e gosto de colaborar em equipes multidisciplinares para resolver problemas complexos. Minhas pesquisas focam em inteligência artificial e simulação estocástica. Para entrar em contato, me chame no LinkedIn ou envie um e-mail.
+Atuo como Cientista de Dados em Fortaleza, CE - Brasil. Sou bacharel em Estatística pela Universidade Federal do Ceará - UFC e possuo aproximadamente 5 anos de experiência em análise, desenvolvimento de dashboards e implementação de modelos preditivos. Tenho sólida habilidade em manipulação e modelagem de dados com Python, R e SQL, e experiência prática com Power BI, Looker, AWS e GCP. Sou fluente em inglês e gosto de colaborar em equipes multidisciplinares para resolver problemas complexos. Minhas pesquisas focam em inteligência artificial e simulação estocástica. Para entrar em contato, me chame no LinkedIn.
 
 ---
 
