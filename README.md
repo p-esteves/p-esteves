@@ -21,6 +21,7 @@ Cientista de Dados com **5 anos de experiência** transformando dados em soluç�
 Bacharel em **Estatística pela UFC** com monografia focada em **Redes Neurais Convolucionais para diagnóstico de Leucemia Linfoblástica Aguda**. Atualmente membro da **SBMAC** (Sociedade Brasileira de Matemática Aplicada e Computacional).
 
 🔬 **Áreas de Pesquisa:** Inteligência Artificial | Simulação Estocástica | Física Estatística |
+
 🌍 **Idiomas:** Português (nativo) | Inglês (fluente - C2) | Espanhol (intermediário) | Francês & Italiano (básico)  
 
 ---
@@ -101,14 +102,6 @@ Bacharel em **Estatística pela UFC** com monografia focada em **Redes Neurais C
 ## 📫 Vamos Conectar?
 
 Estou sempre aberto para discussões sobre **ciência de dados, machine learning, MLOps** e oportunidades de colaboração em projetos desafiadores.
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vamos_Conversar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietro-esteves-240564134)
-[![Email](https://img.shields.io/badge/Email-Entre_em_Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pietro.oesteves@gmail.com)
-[![Lattes](https://img.shields.io/badge/Lattes-Currículo_Acadêmico-003366?style=for-the-badge&logo=academia&logoColor=white)](http://lattes.cnpq.br/7195442117723445)
-
-</div>
 
 ---
 
