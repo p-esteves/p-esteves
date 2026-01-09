@@ -94,6 +94,9 @@ Bacharel em **Estatística pela UFC** com monografia focada em **Redes Neurais C
 **Artigo Publicado:**
 - BENTO, G. et al. *"Avaliando o Protótipo do Jogo 2D Football com Foco em Heurísticas de Mecânica de Jogo e Jogabilidade"* - XXIV Simpósio Brasileiro de Jogos e Entretenimento Digital (SBGames 2025)
 
+**Preprint**
+- ESTEVES, P.O. *"Robust Physics Discovery from Highly Corrupted Data: A PINN Framework Applied to the Nonlinear Schrödinger Equation"* - ArXiv (2026)
+
 **Apresentações:**
 - "Estatística Aplicada Através dos Estudos do Observatório da Indústria" - Encontros Universitários UFC (2020-2021)
 
