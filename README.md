@@ -102,9 +102,9 @@ Bacharel em **Estatística pela UFC** com monografia focada em **Redes Neurais C
 
 ---
 
-## 📫 Vamos Conectar?
+## 📫 Vamos nos Conectar?
 
-Estou sempre aberto para discussões sobre **ciência de dados, machine learning, MLOps** e oportunidades de colaboração em projetos desafiadores.
+Estou sempre aberto para discussões sobre **ciência de dados, machine learning, MLOps** e oportunidades de colaboração em projetos.
 
 ---
 
