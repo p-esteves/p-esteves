@@ -112,6 +112,4 @@ Estou sempre aberto para discussões sobre **ciência de dados, machine learning
 
 ![Profile Views](https://komarev.com/ghpvc/?username=p-esteves&color=blue&style=flat-square)
 
-**🔗 Membro da SBMAC** | **🎓 Estatístico UFC** | **🤖 ML Engineer**
-
 </div>
