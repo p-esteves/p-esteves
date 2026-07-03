@@ -28,16 +28,3 @@ Estatístico (UFC) e pesquisador apaixonado pela intersecção entre **Matemáti
 | **Data Viz** | `Streamlit` `Shiny` `Power BI` `Tableau` |
 
 ---
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=p-esteves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-esteves&layout=compact&theme=tokyonight&hide=html,css,javascript" />
-</div>
-
----
-
-<div align="center">
-  <sub>"Data is the new oil, but Math is the refinery."</sub>
-</div>
